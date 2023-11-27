@@ -22,7 +22,7 @@ int main() {
         
    string truth[4]={"\nMoment of truth!","...","...","...\n"};
         for(int i=0;i<4;i++){
-            cout<<truth[i] << "\n";
+            cout<<truth[i];
         }
         
     if(response>number) {
